@@ -1,2 +1,2 @@
 # IoT-house
-The word IoT as never befor
+The word IoT as never before
